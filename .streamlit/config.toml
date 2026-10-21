@@ -1,0 +1,16 @@
+# Thème de Churn Studio : les couleurs de mes carrousels
+[theme]
+base = "light"
+primaryColor = "#1F5C8B"
+backgroundColor = "#FBFAF7"
+secondaryBackgroundColor = "#F1EFE9"
+textColor = "#14181C"
+borderColor = "#E2E1DC"
+baseRadius = "0.75rem"
+dataframeHeaderBackgroundColor = "#123240"
+dataframeHeaderTextColor = "#FFFFFF"
+redColor = "#B03030"
+greenColor = "#2E7D4F"
+blueColor = "#1F5C8B"
+orangeColor = "#8C5A2B"
+metricValueFontSize = "1.9rem"
